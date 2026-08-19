@@ -68,7 +68,7 @@ python scripts/block-inventory.py ./drawings
 3. Browse to the script file and click **Load**
 4. Check the command prompt for the run command
 
-Each script includes header comments with usage instructions. For more [tutorials and guides](https://www.gstarcad.net/tutorials/), visit the official learning center.
+Each script includes header comments with usage instructions. For more [tutorials and guides](https://www.gstarcad.net/cad/), visit the official learning center.
 
 ### Example: Count Blocks
 
